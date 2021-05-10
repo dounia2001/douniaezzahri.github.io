@@ -1,0 +1,76 @@
+@charset "UTF-8";
+.l1{
+  border:solid 3px #385d8a;
+  background:#d99694;
+  height:50px;
+}
+.l1a{
+  border:solid 3px #385d8a;
+  background:#d99694;
+  height:50px;
+  margin-left: 3rem;
+    margin-bottom: -0.2%;
+}
+.l1b{
+  border:solid 3px #385d8a;
+  background:#d99694;
+  height:50px;
+}
+.l1c{
+  border:solid 3px #385d8a;
+  background:#d99694;
+  height:50px;
+}
+.l2{
+  border:solid 3px #385d8a;
+  background:#c4db97;
+  height:50px;
+}
+.l2a{
+  border:solid 3px #385d8a;
+  background:#c4db97;
+  height:50px;
+  margin-left: 8.5rem;
+  margin-bottom: -0.2%;
+}
+.l2b{
+  border:solid 3px #385d8a;
+  background:#c4db97;
+  height:50px;
+}
+.l2d{
+  border:solid 3px #385d8a ;
+  background:#558ed5;
+  height:50px;
+margin-left: 5.8rem;
+}
+.l2c{
+  border:solid 3px #385d8a;
+  background:#c4db97;
+  height:50px;
+}
+.l3{
+  border:solid 3px #385d8a ;
+  background:#558ed5;
+  height:50px;
+}
+.l1d{
+  border:solid 3px #385d8a ;
+  background:#558ed5;
+  height:50px;
+  margin-left: 0.4rem;
+}
+.l3a{
+  border:solid 3px #385d8a ;
+  background:#558ed5;
+  height:50px;
+  margin-left: 14rem;
+
+}
+
+.l2,.l1{
+  margin-bottom: 0.3rem;
+}
+div{
+  margin:0.09rem;
+}
